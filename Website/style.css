@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+ body{
+    background-color: rgb(232, 255, 225);
+    font-family: 'Bebas Neue';
+}
+img{
+    height: 300px;
+}
+
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
